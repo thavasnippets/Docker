@@ -1,0 +1,5 @@
+
+*.json
+WebApiDocker/obj/Debug/net5.0/WebApiDocker.csprojAssemblyReference.cache
+WebApiDocker/obj/project.nuget.cache
+WebApiDocker/obj/WebApiDocker.csproj.nuget.dgspec.json
